@@ -3,6 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://www.linkedin.com/in/kushal-bhanot-5495aa88/)
 
 # Diabetes Challenge
+[![HitCount](http://hits.dwyl.com/KushalBhanot/Diabetes-Classification.svg)](http://hits.dwyl.com/KushalBhanot/Diabetes-Classification)<br>
 Machine Learning in Health
 Diabetes is a condition that impairs the body's ability to process blood glucose, otherwise known as blood sugar. In the United States, the estimated number of people over 18 years of age with diagnosed and undiagnosed diabetes is 30.2 million. The figure represents between 27.9 and 32.7 percent of the population.
 
